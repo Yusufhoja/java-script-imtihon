@@ -1,0 +1,103 @@
+
+.form{
+    background-color: rgba(26, 104, 230, 0.568);
+    width: 900px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+}
+.dum{
+    width: 100px;
+    height: 100px;
+    background-color: none;
+    border-radius: 50px;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    font-size: larger;
+    font-weight: bold;
+}
+.dim{
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+.div{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    font-weight: 900;
+}
+.qoshimcha{
+    display: flex;
+    width: 230px;
+    justify-content: space-between;
+    font-weight: 900;
+}
+
+
+.raw{
+    margin-left: 50px;
+}
+img{
+    width: 20px;
+    height: 20px;
+
+}
+.a{
+    display: flex;
+    align-items: center;
+}
+.inp{
+    font-weight: 900;
+    font-size: 20px;
+    background-color: aliceblue;
+    height: 30px;
+    width: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.thickness-options{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
+.size-options{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+}
+.size-option{
+    width: 80px;
+    height: 80px;
+    background-color: none;
+    border-radius: 50px;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    font-size: larger;
+    font-weight: bold;
+}
+.topping-options{
+    display: flex;
+}
+.selected-thickness{
+    height: 90px   ;
+}
+.selected-size{
+    height: 120px;
+}
+
+   body{
+    background-image: url(./HD-wallpaper-pizza-fast-food-pizza-with-sausage-and-olives-food-concepts-background-with-pizza.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
